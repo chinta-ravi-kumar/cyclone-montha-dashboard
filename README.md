@@ -39,3 +39,9 @@ streamlit run app.py
 > It uses simulated or public data and should **not** be used for any emergency, forecasting, or misuse of disaster-related information.
 
 ---
+
+## 💬 Acknowledgement
+Built with ❤️ by **Ravi Kumar Chinta**  
+Thank you for visiting and supporting this project! 🙏
+
+---
